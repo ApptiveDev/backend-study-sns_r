@@ -20,5 +20,6 @@ public class MemberResponseDto {
                 .username(member.getUsername())
                 .nickname(member.getNickname())
                 .build();
+
     }
 }
